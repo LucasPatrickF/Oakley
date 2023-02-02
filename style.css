@@ -1,0 +1,217 @@
+*{
+    margin: 0; /* todos elementos */
+    padding: 0;
+    font-family: sans-serif;
+}
+.figueiredo{
+    text-align: end;
+    color: rgb(0, 0, 0);
+}
+p, h1,h2,h3,h4 {
+    margin-left: 15px;
+    margin-right:15px ;
+}
+.home{
+    text-align: right;
+    margin-right: 15px;
+}
+a{
+    color: #fff; 
+    text-decoration: none; /* tirar sublinhado */
+    transition: 0.3s;
+    font-size: 15px;
+}
+a:hover{
+    opacity: 0.7;
+}
+.logo{
+ width: 100px; /* tamanho logo */
+ height: 100px;  
+}
+.background{
+    background: url("../oakley/img/background/bg.jpg") no-repeat center center ; /* posicionamento */
+    background-size: cover;
+    height: 92vh;
+}
+.history{
+    background: url("../oakley/img/background/bg2.jpg") no-repeat center center ; /* posicionamento */
+    background-size: cover;
+    height: 92vh;
+}
+.black2{
+    background: url("bg3.jpg") no-repeat center center ; /* posicionamento */
+    background-size: cover;
+    height: 92vh;
+}
+nav{
+    display: flex; /* um do lada do outro */
+    justify-content: space-around;  
+    align-items: center;
+    font-family: sans-serif;
+    background: #1C1C1C;
+    height: 8vh; /* altura */
+}
+.nav-list{
+    list-style: none;
+    display: flex;
+}
+.nav-list li {
+    letter-spacing: 3px;
+    margin-left: 32px;
+}
+
+.inicial{
+    margin-top: 160px;
+}
+.titulodois{
+    font-family: sans-serif;
+    margin-left: 150px;
+}
+.lupas{
+    display: flex;
+}
+.oculos{
+        margin-left: 130px;
+        margin-top: 10px;
+        width: 332px;
+        height: 197px;
+        border-radius: 12%;
+        border-color: black;
+}
+.eyeshade{
+    text-align: left;
+    margin-left: 230px;
+}
+.inicio{
+    margin-left: 240px;
+}
+.backlup{
+    background-color: #3F4242;
+}
+.lupa{
+    margin-top: 50px;
+    margin-left:60px ;
+    margin-right: 60px;
+}
+.borda{
+    border-radius: 8%;
+}
+.lupadireita{
+    text-align: right;
+}
+.lupas{
+    display: flex;
+}
+.medalhaotexto{
+    margin-left: 165px;
+    text-align: center;
+}
+.medalhao{
+    text-align: center;
+    margin-left: 150px;
+    border-radius: 8%;
+}
+.patentestxt{
+    text-align: center;
+    margin-right: 570px;
+}
+.titulo1{
+    margin-left: 230px;
+}
+.txtsede{
+    margin-left: 350px;
+}
+.fotosede{
+    margin-left: 400px;
+    text-align: center;
+}
+.sobre{
+    margin-top: 800px;
+}
+/* Começo centralização de titulos */
+.lupa350d{
+margin-left: 130px;
+}
+.doublex{
+    margin-left: 115px;
+}
+.lupa4{
+    margin-left: 140px;
+}
+.gascan{
+    margin-left: 100px;
+}
+.wire{
+    margin-left: 95px;
+}
+.minute{
+    margin-left: 105px;
+}
+.juliet{
+ margin-right: 130px;   
+}
+.romeo2{
+    margin-right: 115px;
+}
+.squared{
+    margin-right: 95px;
+}
+.flak2{
+    margin-right: 120px;
+}
+.dart{
+    margin-right: 140px;
+}
+.batwolf{
+ margin-right: 85px;   
+}
+.penny{
+    margin-right: 133px;
+}
+/* final centralização de titulo*/
+
+/* centralização flak*/
+
+.artec{
+    margin-left: 70px;
+}
+.flak365{
+    margin-left: 20px;
+}
+.flakmid{
+    margin-left: 55px;
+}
+.modoc{
+    margin-left: 105px;
+}
+.flak1{
+    margin-right: 60px;
+}
+.flak36{
+    margin-right: 70px;
+}
+.flakhigh{
+    margin-right: 40px;
+}
+.flaklow{
+    margin-right: 60px;
+}
+.track{
+    margin-right: 35px;
+}
+/* fim centralização  flak*/
+
+/* centralização relogios*/
+.gear{
+    margin-left: 85px;
+}
+.machine{
+    margin-left: 40px;
+}
+.tank{
+     margin-left: 70px;
+}
+.judge{
+    margin-right: 108px;
+}
+/* fim centralização relogios*/
